@@ -30,5 +30,5 @@
 + 计算器类`Calculator`：两个方法，`private static String doCalculate(String input)`以字符串的形式返回结果,`public static String calculate(String input)`第一个方法有可能抛出异常，所以这个方法里面加入捕获异常，别返回"输入错误"。
 + 窗口类`CalculatorFrame`：绘制计算器的图形界面并且美化以及对计算结果的保存和查看。
 
-==以上就是本次期末大作业的设计==
+<mark>以上就是本次期末大作业的设计🥰<mark>
 
